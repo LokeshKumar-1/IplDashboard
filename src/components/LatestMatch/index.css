@@ -1,0 +1,42 @@
+.latestMatch-container {
+  width: 100%;
+  background-color: #0f172a;
+  border-radius: 15px;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.placeAndLogo-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 300px;
+}
+
+.LM-heading {
+  font-size: 35px;
+  margin: 0px;
+}
+
+.TM-dateEl {
+  font-size: 35px;
+}
+
+.TM-FS {
+  font-size: 25px;
+}
+
+.TM-lineEl {
+  border: 1px solid #475569;
+  width: 100%;
+  margin-top: 25px;
+}
+
+.TM-Bt-FS {
+  font-size: 25px;
+  color: #ffffff;
+  margin: 25px 0 0 0;
+}

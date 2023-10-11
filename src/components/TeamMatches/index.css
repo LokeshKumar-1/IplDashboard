@@ -1,0 +1,67 @@
+.RCB {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+}
+
+.KKR {
+  background-image: linear-gradient(to bottom, #4f5db0, #1e293b);
+}
+.KXP {
+  background-image: linear-gradient(to bottom, #da237b, #1e293b);
+}
+.CSK {
+  background-image: linear-gradient(to bottom, #f7db00, #1e293b);
+}
+.RR {
+  background-image: linear-gradient(to bottom, #4f5db0, #1e293b);
+}
+.MI {
+  background-image: linear-gradient(to bottom, #13418b, #1e293b);
+}
+.SH {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+}
+.DC {
+  background-image: linear-gradient(to bottom, #5755a7, #1e293b);
+}
+
+.teamMatch-bg-Container {
+  height: fit-content;
+  width: 100%;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  font-family: 'Bree Serif';
+}
+
+.TM-child-container {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.teamMatch-content-container {
+  width: 100%;
+  height: fit-content;
+  padding: 20px;
+  box-sizing: content-box;
+  display: flex;
+  flex-direction: column;
+}
+.TM-heading {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.TM-RecentMatches-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+  list-style-type: none;
+  padding: 0px;
+  margin: 20px 0 0 0;
+  height: fit-content;
+  width: 80%;
+}

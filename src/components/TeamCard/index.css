@@ -1,0 +1,26 @@
+.cardItemContainer {
+  height: 170px;
+  width: 400px;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  margin: 20px;
+}
+
+.card-team-image {
+  width: 100px;
+}
+
+.card-teamName {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  width: 300px;
+  text-align: center;
+  font-weight: normal;
+  margin-left: 15px;
+}
